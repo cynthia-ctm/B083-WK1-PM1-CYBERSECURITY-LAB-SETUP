@@ -56,9 +56,13 @@ I used the terminal to check the network configuration and IP address.
 
 ![Network Configuration](Screenshot_kali_network_setting_png)
 
-### Browser Test
+## Screenshots
 
-![Browser Test](screenshots/browser.png)
+### Kali Linux Setup
+
+This screenshot shows my Kali Linux environment successfully running in VirtualBox.
+
+![Kali Linux Setup]()
 
 ## Troubleshooting
 
