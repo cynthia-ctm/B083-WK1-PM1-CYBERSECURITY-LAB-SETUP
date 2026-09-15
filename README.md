@@ -54,7 +54,7 @@ I used the terminal to check the network configuration and IP address.
 
 ### Network Configuration
 
-![Network Configuration](screenshots/network.png)
+![Network Configuration](Screenshot_kali_network_setting_png)
 
 ### Browser Test
 
