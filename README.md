@@ -50,7 +50,7 @@ I used the terminal to check the network configuration and IP address.
 
 ### Kali Linux Desktop
 
-![Kali Linux Desktop](screenshots/kali-desktop.png)
+![Kali Linux Desktop](Screenshot_kali_linuxpng)
 
 ### Network Configuration
 
