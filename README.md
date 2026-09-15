@@ -62,7 +62,7 @@ I used the terminal to check the network configuration and IP address.
 
 This screenshot shows my Kali Linux environment successfully running in VirtualBox.
 
-![Kali Linux Setup]()
+![Kali Linux Setup](Screenshot 2026-09-13 231314.png)
 
 ## Troubleshooting
 
